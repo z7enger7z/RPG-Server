@@ -1,0 +1,221 @@
+[28May2025 19:15:01.897] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[28May2025 19:15:01.904] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[28May2025 19:15:02.056] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/fml.toml is not correct. Correcting
+[28May2025 19:15:02.058] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[28May2025 19:15:02.059] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[28May2025 19:15:02.060] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[28May2025 19:15:02.061] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[28May2025 19:15:02.714] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[28May2025 19:15:02.799] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RPG-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[28May2025 19:15:03.361] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[28May2025 19:15:03.363] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28May2025 19:15:03.368] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28May2025 19:15:03.371] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28May2025 19:15:03.833] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[28May2025 19:15:10.002] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28May2025 19:15:10.072] [main/ERROR] [mixin/]: Mixin config mixins.efwingscompat.json does not specify "minVersion" property
+[28May2025 19:15:10.127] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[28May2025 19:15:10.131] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[28May2025 19:15:10.306] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[28May2025 19:15:10.316] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
+[28May2025 19:15:10.427] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[28May2025 19:15:10.430] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[28May2025 19:15:10.449] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28May2025 19:15:10.583] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[28May2025 19:15:10.677] [main/INFO] [Xenon/]: Loaded configuration file for Xenon: 116 options available, 3 override(s) found
+[28May2025 19:15:10.828] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[28May2025 19:15:10.829] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[28May2025 19:15:10.857] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[28May2025 19:15:11.204] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
+[28May2025 19:15:11.614] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[28May2025 19:15:13.496] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/boss/ApothBoss (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.boss.ApothBoss)
+[28May2025 19:15:13.496] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.boss.ApothBoss was not found sedparties.mixins.json:apotheosis.ApothBossMixin
+[28May2025 19:15:13.498] [main/WARN] [mixin/]: Error loading class: io/redspace/ironsspellbooks/api/magic/MagicData (java.lang.ClassNotFoundException: io.redspace.ironsspellbooks.api.magic.MagicData)
+[28May2025 19:15:13.498] [main/WARN] [mixin/]: @Mixin target io.redspace.ironsspellbooks.api.magic.MagicData was not found sedparties.mixins.json:ironsspellbooks.PlayerMagicDataMixin
+[28May2025 19:15:14.180] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[28May2025 19:15:14.181] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[28May2025 19:15:14.414] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER
+[28May2025 19:15:14.415] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/Sheets (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER)
+[28May2025 19:15:14.415] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.Sheets was not found shouldersurfing.forge.compat.mixins.json:iris.MixinSheets_1_7_0
+[28May2025 19:15:14.534] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[28May2025 19:15:15.844] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (17.91 s after launch)
+[28May2025 19:15:16.129] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[28May2025 19:15:16.130] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[28May2025 19:15:16.551] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[28May2025 19:15:16.553] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[28May2025 19:15:16.553] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[28May2025 19:15:20.253] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4403 milliseconds
+[28May2025 19:15:21.102] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[28May2025 19:15:21.102] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[28May2025 19:15:22.857] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[28May2025 19:15:22.857] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[28May2025 19:15:22.858] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[28May2025 19:15:22.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[28May2025 19:15:24.356] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[28May2025 19:15:25.034] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
+[28May2025 19:15:25.399] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/RPG-Server/servidor_minecraft/config/libraryferret_1.properties created and initialized with default value
+[28May2025 19:15:25.400] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[28May2025 19:15:25.413] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[28May2025 19:15:26.243] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[28May2025 19:15:26.276] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[28May2025 19:15:26.276] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[28May2025 19:15:26.642] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[28May2025 19:15:26.643] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: oculus, class net.irisshaders.iris.Iris
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredConstructors(Class.java:3373) ~[?:?]
+	at java.lang.Class.getConstructor0(Class.java:3578) ~[?:?]
+	at java.lang.Class.getDeclaredConstructor(Class.java:2754) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23223!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[28May2025 19:15:26.704] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/RPG-Server/servidor_minecraft/config/bettervillage_1.properties created and initialized with default value
+[28May2025 19:15:27.110] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/epicfight-client.toml is not correct. Correcting
+[28May2025 19:15:27.127] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28May2025 19:15:27.127] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.long_press_count was corrected from null to its default, 2. 
+[28May2025 19:15:27.128] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.max_hit_projectiles was corrected from null to its default, 30. 
+[28May2025 19:15:27.162] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.health_bar_show_option was corrected from null to its default, hurt. 
+[28May2025 19:15:27.162] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.show_target_indicator was corrected from null to its default, true. 
+[28May2025 19:15:27.162] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.filter_animation was corrected from null to its default, false. 
+[28May2025 19:15:27.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.laser_pointer_color was corrected from null to its default, 0.328125. 
+[28May2025 19:15:27.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.enable_laser_pointer was corrected from null to its default, true. 
+[28May2025 19:15:27.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.camera_auto_switch was corrected from null to its default, false. 
+[28May2025 19:15:27.164] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.auto_preparation was corrected from null to its default, false. 
+[28May2025 19:15:27.164] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.blood_effects was corrected from null to its default, true. 
+[28May2025 19:15:27.165] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.no_mining_in_combat was corrected from null to its default, true. 
+[28May2025 19:15:27.165] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.aiming_correction was corrected from null to its default, true. 
+[28May2025 19:15:27.165] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.show_epicfight_attributes was corrected from null to its default, true. 
+[28May2025 19:15:27.166] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.use_animation_shader was corrected from null to its default, false. 
+[28May2025 19:15:27.166] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.first_person_model was corrected from null to its default, true. 
+[28May2025 19:15:27.167] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.battle_autoswitch_items was corrected from null to its default, []. 
+[28May2025 19:15:27.169] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.mining_autoswitch_items was corrected from null to its default, []. 
+[28May2025 19:15:27.169] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28May2025 19:15:27.169] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_x was corrected from null to its default, 120. 
+[28May2025 19:15:27.170] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_y was corrected from null to its default, 10. 
+[28May2025 19:15:27.171] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_x_base was corrected from null to its default, RIGHT. 
+[28May2025 19:15:27.171] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_y_base was corrected from null to its default, BOTTOM. 
+[28May2025 19:15:27.172] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_x was corrected from null to its default, 42. 
+[28May2025 19:15:27.174] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_y was corrected from null to its default, 48. 
+[28May2025 19:15:27.174] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_x_base was corrected from null to its default, RIGHT. 
+[28May2025 19:15:27.174] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_y_base was corrected from null to its default, BOTTOM. 
+[28May2025 19:15:27.175] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_x was corrected from null to its default, 70. 
+[28May2025 19:15:27.175] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_y was corrected from null to its default, 36. 
+[28May2025 19:15:27.175] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_x_base was corrected from null to its default, RIGHT. 
+[28May2025 19:15:27.175] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_y_base was corrected from null to its default, BOTTOM. 
+[28May2025 19:15:27.176] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_align_direction was corrected from null to its default, HORIZONTAL. 
+[28May2025 19:15:27.178] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_x was corrected from null to its default, -119. 
+[28May2025 19:15:27.180] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_y was corrected from null to its default, 60. 
+[28May2025 19:15:27.180] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_x_base was corrected from null to its default, CENTER. 
+[28May2025 19:15:27.180] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_y_base was corrected from null to its default, CENTER. 
+[28May2025 19:15:27.188] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/epicfight.toml is not correct. Correcting
+[28May2025 19:15:27.190] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28May2025 19:15:27.190] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.doVanillaAttack was corrected from null to its default, true. 
+[28May2025 19:15:27.190] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.globalStun was corrected from null to its default, true. 
+[28May2025 19:15:27.191] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.keepSkills was corrected from null to its default, true. 
+[28May2025 19:15:27.191] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.hasFallAnimation was corrected from null to its default, true. 
+[28May2025 19:15:27.192] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.disapleEntityUI was corrected from null to its default, false. 
+[28May2025 19:15:27.192] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.stiffComboAttacks was corrected from null to its default, true. 
+[28May2025 19:15:27.194] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.noMobsInBossfight was corrected from null to its default, true. 
+[28May2025 19:15:27.195] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.epicDrop was corrected from null to its default, true. 
+[28May2025 19:15:27.197] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.weightPenalty was corrected from null to its default, 100. 
+[28May2025 19:15:27.197] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.canSwitchCombat was corrected from null to its default, true. 
+[28May2025 19:15:27.197] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.initialPlayerMode was corrected from null to its default, MINING. 
+[28May2025 19:15:27.199] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28May2025 19:15:27.201] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot.skill_book_mob_drop_chance_modifier was corrected from null to its default, 0. 
+[28May2025 19:15:27.201] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot.skill_book_chest_drop_chance_modifier was corrected from null to its default, 0. 
+[28May2025 19:15:27.207] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/wom-client.toml is not correct. Correcting
+[28May2025 19:15:27.209] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28May2025 19:15:27.210] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.boosted_mob_over_distance was corrected from null to its default, true. 
+[28May2025 19:15:27.211] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.mob_drop_emerald_over_health was corrected from null to its default, true. 
+[28May2025 19:15:27.212] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.mob_more_xp_over_health was corrected from null to its default, true. 
+[28May2025 19:15:27.212] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.skeleton_melee was corrected from null to its default, true. 
+[28May2025 19:15:27.212] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.skeleton_mele_percentage was corrected from null to its default, 50. 
+[28May2025 19:15:27.214] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/wom.toml is not correct. Correcting
+[28May2025 19:15:27.216] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28May2025 19:15:27.216] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.spawnStrongerMobs was corrected from null to its default, false. 
+[28May2025 19:15:27.217] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.strongerMobsDropEmeralds was corrected from null to its default, false. 
+[28May2025 19:15:27.212] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[28May2025 19:15:27.218] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.strongerMobsMoreEXP was corrected from null to its default, false. 
+[28May2025 19:15:27.219] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.skeletonMoreMelee was corrected from null to its default, 50. 
+[28May2025 19:15:27.219] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AzureLibCompat
+[28May2025 19:15:27.225] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: epicfight, class yesman.epicfight.main.EpicFightMod
+java.lang.NoSuchFieldError: IRIS_SHADER_PROVIDERS
+	at yesman.epicfight.compat.IRISCompat.<clinit>(IRISCompat.java:17) ~[epicfight-forge-20.9.7-1.20.1.jar%23181!/:20.9.7]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at yesman.epicfight.compat.ICompatModule.loadCompatModule(ICompatModule.java:17) ~[epicfight-forge-20.9.7-1.20.1.jar%23181!/:20.9.7]
+	at yesman.epicfight.main.EpicFightMod.<init>(EpicFightMod.java:226) ~[epicfight-forge-20.9.7-1.20.1.jar%23181!/:20.9.7]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23223!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[28May2025 19:15:27.392] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[28May2025 19:15:27.403] [modloading-worker-0/WARN] [dev.foxgirl.pickaxetrims.shared.PickaxeTrimsConfig/]: Config file not found, will be created
+[28May2025 19:15:27.468] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[28May2025 19:15:27.470] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[28May2025 19:15:27.499] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Config file '/workspaces/RPG-Server/servidor_minecraft/config/yacl.json5' does not exist. Creating it with default values.
+[28May2025 19:15:27.500] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Serializing class dev.isxander.yacl3.platform.YACLConfig to '/workspaces/RPG-Server/servidor_minecraft/config/yacl.json5'
+[28May2025 19:15:27.684] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 2 errors found
+[28May2025 19:15:27.785] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID c99b1ee4-f2d9-4cfa-aaf0-7e74f63f2737
+[28May2025 19:15:27.787] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-05-28_19.15.27-fml.txt
+[28May2025 19:15:27.812] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 4ae5c9f7-7586-456b-b54a-63ddb4bc78a0
+[28May2025 19:15:27.815] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Oculus (oculus) has failed to load correctly
+§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER,
+	Epic Fight (epicfight) has failed to load correctly
+§7java.lang.NoSuchFieldError: IRIS_SHADER_PROVIDERS
+]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:246) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23226!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
