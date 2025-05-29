@@ -3933,3 +3933,76 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [29May2025 02:42:13.215] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with z7zenger7z
 [29May2025 02:42:13.215] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with z7zenger7z
 [29May2025 02:42:13.215] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to z7zenger7z
+[29May2025 02:42:51.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> no te oigo
+[29May2025 02:42:58.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> se corto
+[29May2025 02:42:58.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <D0G3> ke paso
+[29May2025 02:43:07.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> aron nou
+[29May2025 02:43:14.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <D0G3> te saliste
+[29May2025 02:43:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was slain by Zombie
+[29May2025 02:43:24.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 02:43:24.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 02:45:21.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was doomed to fall by Zombie
+[29May2025 02:46:32.095] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=443, y=65, z=230}) doesn't have enough leaves around top most log
+[29May2025 02:46:32.885] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=443, y=64, z=230}) doesn't have enough leaves around top most log
+[29May2025 02:47:40.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was slain by Zombie
+[29May2025 02:47:57.279] [Worker-Main-1/DEBUG] [mixin/]: Mixing ai.task.memory_change_counting.MultiTickTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.Behavior
+[29May2025 02:47:57.282] [Worker-Main-1/DEBUG] [mixin/]: lithium.mixins.json:ai.task.memory_change_counting.MultiTickTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29May2025 02:47:57.317] [Worker-Main-1/DEBUG] [mixin/]: Mixing ai.task.replace_streams.CompositeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.GateBehavior
+[29May2025 02:47:57.317] [Worker-Main-1/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.CompositeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29May2025 02:47:57.330] [Worker-Main-1/DEBUG] [mixin/]: Mixing ai.task.replace_streams.WeightedListMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
+[29May2025 02:47:57.330] [Worker-Main-1/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.WeightedListMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29May2025 02:47:57.392] [Worker-Main-1/DEBUG] [mixin/]: Mixing ai.poi.tasks.HideInHomeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[29May2025 02:47:57.393] [Worker-Main-1/DEBUG] [mixin/]: lithium.mixins.json:ai.poi.tasks.HideInHomeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29May2025 02:48:14.252] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[29May2025 02:48:14.270] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[29May2025 02:48:14.294] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[29May2025 02:48:14.302] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[29May2025 02:48:14.309] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[29May2025 02:48:24.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 02:48:24.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 02:50:24.809] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[29May2025 02:50:29.496] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[29May2025 02:50:29.506] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[29May2025 02:51:13.332] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[29May2025 02:51:24.279] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[29May2025 02:51:24.316] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:blossom_blade
+[29May2025 02:51:59.150] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[29May2025 02:52:01.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Rhinoceros
+[29May2025 02:52:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Safe Haven]
+[29May2025 02:53:24.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 02:53:24.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 02:53:39.243] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[29May2025 02:54:08.929] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:mangrove_witch_hut/mangrove_witch_hut_1 is being run through DFU (hash cadd627a5236f5cbea8fb46544db537f1301b4a8cf05db15c46d084cf70444a1), this will cause launch time delays
+[29May2025 02:54:12.161] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[29May2025 02:54:19.910] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_8 is being run through DFU (hash aa2afa2d5de66cead416df85ea4a32fc04854c642105d5d8b3e50e03ba56d1a1), this will cause launch time delays
+[29May2025 02:55:34.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Stone Age]
+[29May2025 02:55:44.943] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[29May2025 02:55:48.159] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[29May2025 02:55:48.171] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[29May2025 02:56:07.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Getting an Upgrade]
+[29May2025 02:58:25.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 02:58:25.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 02:58:31.493] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[29May2025 03:00:08.769] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[29May2025 03:02:09.558] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11
+[29May2025 03:02:21.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[29May2025 03:02:21.863] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[29May2025 03:03:24.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:03:24.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:04:37.182] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4
+[29May2025 03:04:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was slain by Zombie
+[29May2025 03:04:48.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Sweet Dreams]
+[29May2025 03:05:29.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was shot by Skeleton
+[29May2025 03:08:24.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:08:24.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:09:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 was doomed to fall by Bison
+[29May2025 03:10:06.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeffKennedy48 moved too quickly! 7.6743807038232035,0.0,-6.576989970735724
+[29May2025 03:11:21.025] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower is being run through DFU (hash 2aa736a9a69448128a627e66d29f383eec9329d7d67b343c8937211da710aa88), this will cause launch time delays
+[29May2025 03:13:24.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:13:24.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:16:01.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: D0G3 moved wrongly!
+[29May2025 03:18:24.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:18:24.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:23:18.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Stone Age]
+[29May2025 03:23:24.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:23:24.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

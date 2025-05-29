@@ -314,3 +314,22 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [29May2025 02:42:09.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z joined the game
 [29May2025 02:42:13.214] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of z7zenger7z (18)
 [29May2025 02:42:13.215] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to z7zenger7z
+[29May2025 02:42:51.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> no te oigo
+[29May2025 02:42:58.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> se corto
+[29May2025 02:42:58.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <D0G3> ke paso
+[29May2025 02:43:07.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> aron nou
+[29May2025 02:43:14.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <D0G3> te saliste
+[29May2025 02:43:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was slain by Zombie
+[29May2025 02:45:21.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was doomed to fall by Zombie
+[29May2025 02:47:40.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was slain by Zombie
+[29May2025 02:52:01.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Rhinoceros
+[29May2025 02:52:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Safe Haven]
+[29May2025 02:55:34.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Stone Age]
+[29May2025 02:56:07.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Getting an Upgrade]
+[29May2025 03:04:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was slain by Zombie
+[29May2025 03:04:48.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Sweet Dreams]
+[29May2025 03:05:29.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was shot by Skeleton
+[29May2025 03:09:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 was doomed to fall by Bison
+[29May2025 03:10:06.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeffKennedy48 moved too quickly! 7.6743807038232035,0.0,-6.576989970735724
+[29May2025 03:16:01.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: D0G3 moved wrongly!
+[29May2025 03:23:18.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Stone Age]
