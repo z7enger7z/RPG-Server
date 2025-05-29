@@ -348,3 +348,13 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [29May2025 03:47:19.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22103, l='ServerLevel[world]', x=976.58, y=83.00, z=1011.53] died, message: 'Villager was slain by Zombie'
 [29May2025 03:47:53.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22216, l='ServerLevel[world]', x=971.42, y=84.94, z=1028.30] died, message: 'Villager was slain by Iron Golem'
 [29May2025 03:48:58.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/22300, l='ServerLevel[world]', x=965.22, y=78.00, z=1016.97] died, message: 'Mason was blown up by Creeper'
+[29May2025 03:54:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 hit the ground too hard
+[29May2025 03:56:03.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeffKennedy48 lost connection: Disconnected
+[29May2025 03:56:03.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 left the game
+[29May2025 03:56:03.998] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JeffKennedy48
+[29May2025 03:56:09.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: D0G3 lost connection: Disconnected
+[29May2025 03:56:09.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 left the game
+[29May2025 03:56:09.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client D0G3
+[29May2025 03:56:34.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: z7zenger7z lost connection: Disconnected
+[29May2025 03:56:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z left the game
+[29May2025 03:56:34.628] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client z7zenger7z
