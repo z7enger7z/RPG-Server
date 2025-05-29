@@ -4006,3 +4006,69 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [29May2025 03:23:18.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Stone Age]
 [29May2025 03:23:24.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29May2025 03:23:24.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:28:24.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:28:24.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:30:00.604] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[29May2025 03:30:04.099] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/plains/streets/straight_02 is being run through DFU (hash 07cf1287f040448b35e9b77e66c531c40a19016109014b1175ab9dac209f0287), this will cause launch time delays
+[29May2025 03:30:05.238] [Worker-Main-1/DEBUG] [ModernFix/]: Structure iceandfire:village/plains_scriber_1 is being run through DFU (hash 76a607dd4093491f52ecde52887eafe16741dcdeacbe41d03515821e3ebfb9df), this will cause launch time delays
+[29May2025 03:31:00.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Diamonds!]
+[29May2025 03:31:12.215] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_29 is being run through DFU (hash bb28b28cbbf82aaac84e418a24d4c13d4b2bbb58480df5a1c0aadbeb709bf08d), this will cause launch time delays
+[29May2025 03:31:15.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Suit Up]
+[29May2025 03:31:55.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Ice Bucket Challenge]
+[29May2025 03:32:11.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Ice Bucket Challenge]
+[29May2025 03:33:24.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:33:24.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:34:37.974] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:mangrove_witch_hut/mangrove_witch_hut_2 is being run through DFU (hash f808faa6113ededbf5ae7842125b611a586b2f8fc3cfde99dad971d3e190b72f), this will cause launch time delays
+[29May2025 03:35:46.446] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_enterance_1 is being run through DFU (hash cc49619c6ddb56b523a4444322a58e8764016caeec5391d2369fdee2703c9ce1), this will cause launch time delays
+[29May2025 03:36:10.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 fell from a high place
+[29May2025 03:38:12.481] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$4782afb719654307b81690ac6cf03929 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[29May2025 03:38:24.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:38:24.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:40:09.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 was slain by Grizzly Bear
+[29May2025 03:40:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 was slain by Grizzly Bear
+[29May2025 03:41:48.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/21282, l='ServerLevel[world]', x=908.64, y=71.79, z=953.72] died, message: 'Scribe was slain by Zombie'
+[29May2025 03:41:55.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/21280, l='ServerLevel[world]', x=912.78, y=72.00, z=961.07] died, message: 'Shepherd was slain by Zombie'
+[29May2025 03:42:59.250] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=972, y=78, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:00.319] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=973, y=79, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:01.731] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=974, y=79, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:02.764] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=975, y=79, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:13.231] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=973, y=78, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:14.283] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=974, y=78, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:15.330] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=975, y=78, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:16.360] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=976, y=79, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:17.630] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=976, y=78, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:18.685] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=977, y=79, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:19.777] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=977, y=78, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:20.829] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=978, y=79, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:21.917] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=978, y=78, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:22.958] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=979, y=79, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:24.015] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=979, y=78, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:24.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:43:24.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:43:25.173] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=980, y=79, z=1018}) doesn't have enough leaves around top most log
+[29May2025 03:43:26.829] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=980, y=78, z=1017}) doesn't have enough leaves around top most log
+[29May2025 03:43:28.480] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=979, y=78, z=1017}) doesn't have enough leaves around top most log
+[29May2025 03:43:29.527] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=978, y=78, z=1017}) doesn't have enough leaves around top most log
+[29May2025 03:43:30.567] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=977, y=78, z=1017}) doesn't have enough leaves around top most log
+[29May2025 03:43:31.634] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=976, y=78, z=1017}) doesn't have enough leaves around top most log
+[29May2025 03:43:32.654] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=975, y=78, z=1017}) doesn't have enough leaves around top most log
+[29May2025 03:43:33.711] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=974, y=78, z=1017}) doesn't have enough leaves around top most log
+[29May2025 03:43:34.780] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=973, y=78, z=1017}) doesn't have enough leaves around top most log
+[29May2025 03:43:37.835] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=973, y=78, z=1019}) doesn't have enough leaves around top most log
+[29May2025 03:43:38.881] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=974, y=78, z=1019}) doesn't have enough leaves around top most log
+[29May2025 03:43:39.928] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=975, y=78, z=1019}) doesn't have enough leaves around top most log
+[29May2025 03:43:40.954] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=976, y=78, z=1019}) doesn't have enough leaves around top most log
+[29May2025 03:43:42.029] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=977, y=78, z=1019}) doesn't have enough leaves around top most log
+[29May2025 03:43:43.073] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=978, y=78, z=1019}) doesn't have enough leaves around top most log
+[29May2025 03:43:44.109] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=979, y=78, z=1019}) doesn't have enough leaves around top most log
+[29May2025 03:43:45.181] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=980, y=78, z=1019}) doesn't have enough leaves around top most log
+[29May2025 03:44:38.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Acquire Hardware]
+[29May2025 03:46:01.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/22234, l='ServerLevel[world]', x=957.82, y=82.00, z=1034.73] died, message: 'Mason was slain by Zombie'
+[29May2025 03:46:53.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22301, l='ServerLevel[world]', x=979.70, y=95.00, z=1022.49] died, message: 'Villager was slain by Zombie'
+[29May2025 03:47:19.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22103, l='ServerLevel[world]', x=976.58, y=83.00, z=1011.53] died, message: 'Villager was slain by Zombie'
+[29May2025 03:47:53.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22216, l='ServerLevel[world]', x=971.42, y=84.94, z=1028.30] died, message: 'Villager was slain by Iron Golem'
+[29May2025 03:48:24.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:48:24.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:48:58.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/22300, l='ServerLevel[world]', x=965.22, y=78.00, z=1016.97] died, message: 'Mason was blown up by Creeper'
+[29May2025 03:53:24.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:53:24.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
