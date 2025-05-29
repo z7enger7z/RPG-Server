@@ -1,67 +1,104 @@
-[28May2025 19:15:01.897] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[28May2025 19:15:01.904] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[28May2025 19:15:02.056] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/fml.toml is not correct. Correcting
-[28May2025 19:15:02.058] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[28May2025 19:15:02.059] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[28May2025 19:15:02.060] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[28May2025 19:15:02.061] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[28May2025 19:15:02.714] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[28May2025 19:15:02.799] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RPG-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[28May2025 19:15:03.361] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[28May2025 19:15:03.363] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28May2025 19:15:03.368] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28May2025 19:15:03.371] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28May2025 19:15:03.833] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
-[28May2025 19:15:10.002] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[28May2025 19:15:10.072] [main/ERROR] [mixin/]: Mixin config mixins.efwingscompat.json does not specify "minVersion" property
-[28May2025 19:15:10.127] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[28May2025 19:15:10.131] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[28May2025 19:15:10.306] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
-[28May2025 19:15:10.316] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
-[28May2025 19:15:10.427] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[28May2025 19:15:10.430] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[28May2025 19:15:10.449] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[28May2025 19:15:10.583] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
-[28May2025 19:15:10.677] [main/INFO] [Xenon/]: Loaded configuration file for Xenon: 116 options available, 3 override(s) found
-[28May2025 19:15:10.828] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[28May2025 19:15:10.829] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[28May2025 19:15:10.857] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[28May2025 19:15:11.204] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
-[28May2025 19:15:11.614] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[28May2025 19:15:13.496] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/boss/ApothBoss (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.boss.ApothBoss)
-[28May2025 19:15:13.496] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.boss.ApothBoss was not found sedparties.mixins.json:apotheosis.ApothBossMixin
-[28May2025 19:15:13.498] [main/WARN] [mixin/]: Error loading class: io/redspace/ironsspellbooks/api/magic/MagicData (java.lang.ClassNotFoundException: io.redspace.ironsspellbooks.api.magic.MagicData)
-[28May2025 19:15:13.498] [main/WARN] [mixin/]: @Mixin target io.redspace.ironsspellbooks.api.magic.MagicData was not found sedparties.mixins.json:ironsspellbooks.PlayerMagicDataMixin
-[28May2025 19:15:14.180] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[28May2025 19:15:14.181] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[28May2025 19:15:14.414] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER
-[28May2025 19:15:14.415] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/Sheets (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER)
-[28May2025 19:15:14.415] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.Sheets was not found shouldersurfing.forge.compat.mixins.json:iris.MixinSheets_1_7_0
-[28May2025 19:15:14.534] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[28May2025 19:15:15.844] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (17.91 s after launch)
-[28May2025 19:15:16.129] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[28May2025 19:15:16.130] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[28May2025 19:15:16.551] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[28May2025 19:15:16.553] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[28May2025 19:15:16.553] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[28May2025 19:15:20.253] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4403 milliseconds
-[28May2025 19:15:21.102] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[28May2025 19:15:21.102] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[28May2025 19:15:22.857] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[28May2025 19:15:22.857] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[28May2025 19:15:22.858] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[28May2025 19:15:22.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[28May2025 19:15:24.356] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[28May2025 19:15:25.034] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
-[28May2025 19:15:25.399] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/RPG-Server/servidor_minecraft/config/libraryferret_1.properties created and initialized with default value
-[28May2025 19:15:25.400] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[28May2025 19:15:25.413] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[28May2025 19:15:26.243] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[28May2025 19:15:26.276] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[28May2025 19:15:26.276] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[28May2025 19:15:26.642] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[28May2025 19:15:26.643] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: oculus, class net.irisshaders.iris.Iris
-java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[29May2025 02:32:46.029] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29May2025 02:32:46.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[29May2025 02:32:46.696] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29May2025 02:32:46.757] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RPG-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29May2025 02:32:47.220] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29May2025 02:32:47.223] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29May2025 02:32:47.224] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29May2025 02:32:47.227] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29May2025 02:32:47.639] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 13 dependencies adding them to mods collection
+[29May2025 02:32:51.035] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29May2025 02:32:51.083] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[29May2025 02:32:51.088] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[29May2025 02:32:51.189] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[29May2025 02:32:51.196] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
+[29May2025 02:32:51.277] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[29May2025 02:32:51.285] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29May2025 02:32:51.382] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[29May2025 02:32:51.413] [main/INFO] [Xenon/]: Loaded configuration file for Xenon: 98 options available, 0 override(s) found
+[29May2025 02:32:51.570] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.23.0+mc1.20.1: 95 options available, 0 override(s) found
+[29May2025 02:32:51.573] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[29May2025 02:32:51.605] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[29May2025 02:32:51.888] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2025 02:32:52.054] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[29May2025 02:32:54.098] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Camera for invalid dist DEDICATED_SERVER
+[29May2025 02:32:54.099] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Camera (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Camera for invalid dist DEDICATED_SERVER)
+[29May2025 02:32:54.100] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Camera was not found shouldersurfing.forge.compat.mixins.json:epicfight.AccessorCamera
+[29May2025 02:32:54.101] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class yesman/epicfight/client/events/engine/RenderEngine for invalid dist DEDICATED_SERVER
+[29May2025 02:32:54.101] [main/WARN] [mixin/]: Error loading class: yesman/epicfight/client/events/engine/RenderEngine (java.lang.RuntimeException: Attempted to load class yesman/epicfight/client/events/engine/RenderEngine for invalid dist DEDICATED_SERVER)
+[29May2025 02:32:54.159] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[29May2025 02:32:55.207] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.83 s after launch)
+[29May2025 02:32:55.435] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[29May2025 02:32:55.436] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[29May2025 02:32:55.765] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[29May2025 02:32:55.766] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[29May2025 02:32:55.767] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[29May2025 02:32:58.328] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3117 milliseconds
+[29May2025 02:32:59.346] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[29May2025 02:32:59.347] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[29May2025 02:33:01.418] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[29May2025 02:33:01.419] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[29May2025 02:33:01.419] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[29May2025 02:33:01.419] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[29May2025 02:33:02.910] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[29May2025 02:33:03.540] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
+[29May2025 02:33:03.562] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[29May2025 02:33:03.610] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[29May2025 02:33:03.872] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[29May2025 02:33:03.875] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AzureLibCompat
+[29May2025 02:33:03.881] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[29May2025 02:33:04.503] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[29May2025 02:33:04.534] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29May2025 02:33:04.534] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29May2025 02:33:05.288] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/RPG-Server/servidor_minecraft/config/yacl.json5'
+[29May2025 02:33:07.759] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[29May2025 02:33:07.759] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[29May2025 02:33:08.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[29May2025 02:33:09.027] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.027] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.028] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.028] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.028] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.029] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.029] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.029] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.030] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[29May2025 02:33:09.875] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[29May2025 02:33:09.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[29May2025 02:33:09.957] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[29May2025 02:33:09.977] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[29May2025 02:33:09.978] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[29May2025 02:33:10.000] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[29May2025 02:33:10.000] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[29May2025 02:33:10.005] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[29May2025 02:33:10.151] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[29May2025 02:33:10.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
+[29May2025 02:33:10.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Starting version check at https://api.modrinth.com/updates/UMmSTwE0/forge_updates.json
+[29May2025 02:33:10.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Found status: OUTDATED Current: 1.2 Target: 1.2+mod
+[29May2025 02:33:10.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[29May2025 02:33:10.805] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[29May2025 02:33:10.814] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[29May2025 02:33:10.815] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.12.0.jar%23170!/:1.20.1-4.12.0]
+	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:40) ~[ShoulderSurfing-Forge-1.20.1-4.12.0.jar%23170!/:1.20.1-4.12.0]
+	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:23) ~[ShoulderSurfing-Forge-1.20.1-4.12.0.jar%23170!/:1.20.1-4.12.0]
+	at com.github.exopandora.shouldersurfing.forge.plugin.PluginLoaderForge.loadPlugins(PluginLoaderForge.java:23) ~[ShoulderSurfing-Forge-1.20.1-4.12.0.jar%23170!/:1.20.1-4.12.0]
+	at com.github.exopandora.shouldersurfing.forge.ShoulderSurfingForge.loadComplete(ShoulderSurfingForge.java:74) ~[ShoulderSurfing-Forge-1.20.1-4.12.0.jar%23170!/:1.20.1-4.12.0]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.3.7.jar%23185!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:125) ~[fmlcore-1.20.1-47.3.7.jar%23184!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
@@ -72,150 +109,208 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/scr
 	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
-	at java.lang.Class.privateGetDeclaredConstructors(Class.java:3373) ~[?:?]
-	at java.lang.Class.getConstructor0(Class.java:3578) ~[?:?]
-	at java.lang.Class.getDeclaredConstructor(Class.java:2754) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23223!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[28May2025 19:15:26.704] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/RPG-Server/servidor_minecraft/config/bettervillage_1.properties created and initialized with default value
-[28May2025 19:15:27.110] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/epicfight-client.toml is not correct. Correcting
-[28May2025 19:15:27.127] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame was corrected from null to its default, SimpleCommentedConfig:{}. 
-[28May2025 19:15:27.127] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.long_press_count was corrected from null to its default, 2. 
-[28May2025 19:15:27.128] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.max_hit_projectiles was corrected from null to its default, 30. 
-[28May2025 19:15:27.162] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.health_bar_show_option was corrected from null to its default, hurt. 
-[28May2025 19:15:27.162] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.show_target_indicator was corrected from null to its default, true. 
-[28May2025 19:15:27.162] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.filter_animation was corrected from null to its default, false. 
-[28May2025 19:15:27.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.laser_pointer_color was corrected from null to its default, 0.328125. 
-[28May2025 19:15:27.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.enable_laser_pointer was corrected from null to its default, true. 
-[28May2025 19:15:27.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.camera_auto_switch was corrected from null to its default, false. 
-[28May2025 19:15:27.164] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.auto_preparation was corrected from null to its default, false. 
-[28May2025 19:15:27.164] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.blood_effects was corrected from null to its default, true. 
-[28May2025 19:15:27.165] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.no_mining_in_combat was corrected from null to its default, true. 
-[28May2025 19:15:27.165] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.aiming_correction was corrected from null to its default, true. 
-[28May2025 19:15:27.165] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.show_epicfight_attributes was corrected from null to its default, true. 
-[28May2025 19:15:27.166] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.use_animation_shader was corrected from null to its default, false. 
-[28May2025 19:15:27.166] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.first_person_model was corrected from null to its default, true. 
-[28May2025 19:15:27.167] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.battle_autoswitch_items was corrected from null to its default, []. 
-[28May2025 19:15:27.169] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.mining_autoswitch_items was corrected from null to its default, []. 
-[28May2025 19:15:27.169] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui was corrected from null to its default, SimpleCommentedConfig:{}. 
-[28May2025 19:15:27.169] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_x was corrected from null to its default, 120. 
-[28May2025 19:15:27.170] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_y was corrected from null to its default, 10. 
-[28May2025 19:15:27.171] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_x_base was corrected from null to its default, RIGHT. 
-[28May2025 19:15:27.171] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_y_base was corrected from null to its default, BOTTOM. 
-[28May2025 19:15:27.172] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_x was corrected from null to its default, 42. 
-[28May2025 19:15:27.174] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_y was corrected from null to its default, 48. 
-[28May2025 19:15:27.174] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_x_base was corrected from null to its default, RIGHT. 
-[28May2025 19:15:27.174] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_y_base was corrected from null to its default, BOTTOM. 
-[28May2025 19:15:27.175] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_x was corrected from null to its default, 70. 
-[28May2025 19:15:27.175] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_y was corrected from null to its default, 36. 
-[28May2025 19:15:27.175] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_x_base was corrected from null to its default, RIGHT. 
-[28May2025 19:15:27.175] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_y_base was corrected from null to its default, BOTTOM. 
-[28May2025 19:15:27.176] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_align_direction was corrected from null to its default, HORIZONTAL. 
-[28May2025 19:15:27.178] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_x was corrected from null to its default, -119. 
-[28May2025 19:15:27.180] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_y was corrected from null to its default, 60. 
-[28May2025 19:15:27.180] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_x_base was corrected from null to its default, CENTER. 
-[28May2025 19:15:27.180] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_y_base was corrected from null to its default, CENTER. 
-[28May2025 19:15:27.188] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/epicfight.toml is not correct. Correcting
-[28May2025 19:15:27.190] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule was corrected from null to its default, SimpleCommentedConfig:{}. 
-[28May2025 19:15:27.190] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.doVanillaAttack was corrected from null to its default, true. 
-[28May2025 19:15:27.190] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.globalStun was corrected from null to its default, true. 
-[28May2025 19:15:27.191] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.keepSkills was corrected from null to its default, true. 
-[28May2025 19:15:27.191] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.hasFallAnimation was corrected from null to its default, true. 
-[28May2025 19:15:27.192] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.disapleEntityUI was corrected from null to its default, false. 
-[28May2025 19:15:27.192] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.stiffComboAttacks was corrected from null to its default, true. 
-[28May2025 19:15:27.194] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.noMobsInBossfight was corrected from null to its default, true. 
-[28May2025 19:15:27.195] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.epicDrop was corrected from null to its default, true. 
-[28May2025 19:15:27.197] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.weightPenalty was corrected from null to its default, 100. 
-[28May2025 19:15:27.197] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.canSwitchCombat was corrected from null to its default, true. 
-[28May2025 19:15:27.197] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.initialPlayerMode was corrected from null to its default, MINING. 
-[28May2025 19:15:27.199] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot was corrected from null to its default, SimpleCommentedConfig:{}. 
-[28May2025 19:15:27.201] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot.skill_book_mob_drop_chance_modifier was corrected from null to its default, 0. 
-[28May2025 19:15:27.201] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot.skill_book_chest_drop_chance_modifier was corrected from null to its default, 0. 
-[28May2025 19:15:27.207] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/wom-client.toml is not correct. Correcting
-[28May2025 19:15:27.209] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame was corrected from null to its default, SimpleCommentedConfig:{}. 
-[28May2025 19:15:27.210] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.boosted_mob_over_distance was corrected from null to its default, true. 
-[28May2025 19:15:27.211] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.mob_drop_emerald_over_health was corrected from null to its default, true. 
-[28May2025 19:15:27.212] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.mob_more_xp_over_health was corrected from null to its default, true. 
-[28May2025 19:15:27.212] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.skeleton_melee was corrected from null to its default, true. 
-[28May2025 19:15:27.212] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.skeleton_mele_percentage was corrected from null to its default, 50. 
-[28May2025 19:15:27.214] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RPG-Server/servidor_minecraft/config/wom.toml is not correct. Correcting
-[28May2025 19:15:27.216] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule was corrected from null to its default, SimpleCommentedConfig:{}. 
-[28May2025 19:15:27.216] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.spawnStrongerMobs was corrected from null to its default, false. 
-[28May2025 19:15:27.217] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.strongerMobsDropEmeralds was corrected from null to its default, false. 
-[28May2025 19:15:27.212] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[28May2025 19:15:27.218] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.strongerMobsMoreEXP was corrected from null to its default, false. 
-[28May2025 19:15:27.219] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.skeletonMoreMelee was corrected from null to its default, 50. 
-[28May2025 19:15:27.219] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AzureLibCompat
-[28May2025 19:15:27.225] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: epicfight, class yesman.epicfight.main.EpicFightMod
-java.lang.NoSuchFieldError: IRIS_SHADER_PROVIDERS
-	at yesman.epicfight.compat.IRISCompat.<clinit>(IRISCompat.java:17) ~[epicfight-forge-20.9.7-1.20.1.jar%23181!/:20.9.7]
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
-	at yesman.epicfight.compat.ICompatModule.loadCompatModule(ICompatModule.java:17) ~[epicfight-forge-20.9.7-1.20.1.jar%23181!/:20.9.7]
-	at yesman.epicfight.main.EpicFightMod.<init>(EpicFightMod.java:226) ~[epicfight-forge-20.9.7-1.20.1.jar%23181!/:20.9.7]
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23223!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[28May2025 19:15:27.392] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[28May2025 19:15:27.403] [modloading-worker-0/WARN] [dev.foxgirl.pickaxetrims.shared.PickaxeTrimsConfig/]: Config file not found, will be created
-[28May2025 19:15:27.468] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[28May2025 19:15:27.470] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[28May2025 19:15:27.499] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Config file '/workspaces/RPG-Server/servidor_minecraft/config/yacl.json5' does not exist. Creating it with default values.
-[28May2025 19:15:27.500] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Serializing class dev.isxander.yacl3.platform.YACLConfig to '/workspaces/RPG-Server/servidor_minecraft/config/yacl.json5'
-[28May2025 19:15:27.684] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 2 errors found
-[28May2025 19:15:27.785] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID c99b1ee4-f2d9-4cfa-aaf0-7e74f63f2737
-[28May2025 19:15:27.787] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-05-28_19.15.27-fml.txt
-[28May2025 19:15:27.812] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 4ae5c9f7-7586-456b-b54a-63ddb4bc78a0
-[28May2025 19:15:27.815] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
-net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
-	Oculus (oculus) has failed to load correctly
-§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER,
-	Epic Fight (epicfight) has failed to load correctly
-§7java.lang.NoSuchFieldError: IRIS_SHADER_PROVIDERS
-]
-	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:246) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
-	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
-	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
-	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
-	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
-	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23226!/:?]
-	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	... 18 more
+[29May2025 02:33:10.820] [modloading-worker-0/INFO] [ShoulderSurfing/]: Freezing plugin registrar
+[29May2025 02:33:11.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[29May2025 02:33:11.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29May2025 02:33:11.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[29May2025 02:33:11.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[29May2025 02:33:11.387] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29May2025 02:33:11.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[29May2025 02:33:11.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[29May2025 02:33:11.877] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23183!/assets/.mcassetsroot' uses unexpected schema
+[29May2025 02:33:11.880] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RPG-Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23183!/data/.mcassetsroot' uses unexpected schema
+[29May2025 02:33:12.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
+[29May2025 02:33:12.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[29May2025 02:33:12.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[29May2025 02:33:13.595] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[29May2025 02:33:15.631] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[29May2025 02:33:15.987] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eldritch_end:etyr_armor as it is missing following references: samurai_dynasty:etyrite_samurai_helmet (from samurai_dynasty-0.0.49-1.20.1-neo.jar), 
+	samurai_dynasty:etyrite_samurai_chestplate (from samurai_dynasty-0.0.49-1.20.1-neo.jar), 
+	samurai_dynasty:etyrite_samurai_leggings (from samurai_dynasty-0.0.49-1.20.1-neo.jar), 
+	samurai_dynasty:etyrite_samurai_boots (from samurai_dynasty-0.0.49-1.20.1-neo.jar)
+[29May2025 02:33:15.990] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag samurai_dynasty:dampens_vibrations as it is missing following references: samurai_dynasty:sculk_samurai_boots (from samurai_dynasty-0.0.49-1.20.1-neo.jar)
+[29May2025 02:33:15.991] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag deeperdarker:dampens_vibrations as it is missing following references: samurai_dynasty:sculk_samurai_boots (from samurai_dynasty-0.0.49-1.20.1-neo.jar)
+[29May2025 02:33:17.302] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
+[29May2025 02:33:18.109] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_boots as it's serializer returned null
+[29May2025 02:33:18.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:demonseal: com.google.gson.JsonSyntaxException: Unknown item 'wom:demon_seal'
+[29May2025 02:33:18.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[29May2025 02:33:18.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_chestplate_ritual as it's serializer returned null
+[29May2025 02:33:18.125] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:solar: com.google.gson.JsonSyntaxException: Unknown item 'wom:eternal_fire_arcane'
+[29May2025 02:33:18.126] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
+[29May2025 02:33:18.130] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
+[29May2025 02:33:18.135] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
+[29May2025 02:33:18.141] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet: com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherite_samurai_helmet'
+[29May2025 02:33:18.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_boots as it's serializer returned null
+[29May2025 02:33:18.159] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
+[29May2025 02:33:18.171] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
+[29May2025 02:33:18.180] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet: com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_samurai_helmet'
+[29May2025 02:33:18.185] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet: com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst_samurai_helmet'
+[29May2025 02:33:18.188] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:agony: com.google.gson.JsonSyntaxException: Unknown item 'wom:agony'
+[29May2025 02:33:18.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_leggings_smithing as it's serializer returned null
+[29May2025 02:33:18.201] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_chestplate_mechanical_crafting as it's serializer returned null
+[29May2025 02:33:18.203] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_chestplate as it's serializer returned null
+[29May2025 02:33:18.204] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
+[29May2025 02:33:18.205] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:moonless: com.google.gson.JsonSyntaxException: Unknown item 'wom:moonless'
+[29May2025 02:33:18.206] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_boots_mechanical_crafting as it's serializer returned null
+[29May2025 02:33:18.208] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_leggings_ritual as it's serializer returned null
+[29May2025 02:33:18.211] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
+[29May2025 02:33:18.212] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_helmet as it's serializer returned null
+[29May2025 02:33:18.214] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:samurai_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+[29May2025 02:33:18.215] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_boots_ritual as it's serializer returned null
+[29May2025 02:33:18.215] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
+[29May2025 02:33:18.218] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_helmet as it's serializer returned null
+[29May2025 02:33:18.222] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:gesetz: com.google.gson.JsonSyntaxException: Unknown item 'wom:gesetz'
+[29May2025 02:33:18.224] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:torment: com.google.gson.JsonSyntaxException: Unknown item 'wom:netherite_greataxe'
+[29May2025 02:33:18.225] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_helmet_ritual as it's serializer returned null
+[29May2025 02:33:18.228] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_repair_kit_mechanical_crafting as it's serializer returned null
+[29May2025 02:33:18.229] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
+[29May2025 02:33:18.229] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_leggings_mechanical_crafting as it's serializer returned null
+[29May2025 02:33:18.230] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:enderblaster: com.google.gson.JsonSyntaxException: Unknown item 'wom:ender_blaster'
+[29May2025 02:33:18.231] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat: com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_hat'
+[29May2025 02:33:18.233] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_boots_smithing as it's serializer returned null
+[29May2025 02:33:18.235] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_chestplate as it's serializer returned null
+[29May2025 02:33:18.235] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:ruine: com.google.gson.JsonSyntaxException: Unknown item 'wom:ruine'
+[29May2025 02:33:18.237] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_helmet_smithing as it's serializer returned null
+[29May2025 02:33:18.238] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_helmet_mechanical_crafting as it's serializer returned null
+[29May2025 02:33:18.242] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
+[29May2025 02:33:18.243] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
+[29May2025 02:33:18.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_leggings as it's serializer returned null
+[29May2025 02:33:18.252] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:book: com.google.gson.JsonSyntaxException: Unknown item 'wom:eternal_fire_arcane'
+[29May2025 02:33:18.254] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
+[29May2025 02:33:18.257] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_leggings as it's serializer returned null
+[29May2025 02:33:18.261] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
+[29May2025 02:33:18.261] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe uchicraftana:herrscher: com.google.gson.JsonSyntaxException: Unknown item 'wom:herrscher'
+[29May2025 02:33:18.263] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
+[29May2025 02:33:18.265] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
+[29May2025 02:33:18.267] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_chestplate_smithing as it's serializer returned null
+[29May2025 02:33:18.270] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[29May2025 02:33:18.573] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1847 advancements
+[29May2025 02:33:18.633] [main/WARN] [epicfight/]: Can't find a particle type wom:solar_hit in epicfight:ignis
+[29May2025 02:33:18.634] [main/WARN] [epicfight/]: Error while deserializing datapack for cataclysm:the_incinerator
+[29May2025 02:33:18.635] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: java.util.NoSuchElementException: No animation with registry name wom:biped/combat/solar_obscuridad_auto_1
+[29May2025 02:33:18.635] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.animation.AnimationManager.byKeyOrThrow(AnimationManager.java:77)
+[29May2025 02:33:18.636] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.animation.AnimationManager.byKeyOrThrow(AnimationManager.java:72)
+[29May2025 02:33:18.636] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.world.capabilities.item.WeaponTypeReloadListener.deserializeWeaponCapabilityBuilder(WeaponTypeReloadListener.java:178)
+[29May2025 02:33:18.637] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.world.capabilities.item.WeaponTypeReloadListener.lambda$apply$0(WeaponTypeReloadListener.java:99)
+[29May2025 02:33:18.637] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener.deserializeWeapon(ItemCapabilityReloadListener.java:153)
+[29May2025 02:33:18.638] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener.apply(ItemCapabilityReloadListener.java:96)
+[29May2025 02:33:18.639] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener.m_5787_(ItemCapabilityReloadListener.java:48)
+[29May2025 02:33:18.639] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
+[29May2025 02:33:18.640] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[29May2025 02:33:18.640] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[29May2025 02:33:18.640] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+[29May2025 02:33:18.641] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.Util.m_214652_(Util.java:783)
+[29May2025 02:33:18.641] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.Util.m_214679_(Util.java:772)
+[29May2025 02:33:18.641] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.Main.main(Main.java:166)
+[29May2025 02:33:18.642] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[29May2025 02:33:18.642] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[29May2025 02:33:18.642] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[29May2025 02:33:18.643] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+[29May2025 02:33:18.644] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+[29May2025 02:33:18.644] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103)
+[29May2025 02:33:18.644] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27)
+[29May2025 02:33:18.645] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+[29May2025 02:33:18.646] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+[29May2025 02:33:18.646] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+[29May2025 02:33:18.647] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+[29May2025 02:33:18.647] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+[29May2025 02:33:18.649] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+[29May2025 02:33:18.649] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+[29May2025 02:33:18.649] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+[29May2025 02:33:18.652] [main/WARN] [epicfight/]: Can't find a particle type wom:solar_polvora_hit in epicfight:netherite_monstrosity
+[29May2025 02:33:18.652] [main/WARN] [epicfight/]: Error while deserializing datapack for cataclysm:infernal_forge
+[29May2025 02:33:18.653] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: java.util.NoSuchElementException: No animation with registry name wom:biped/combat/torment_auto_1
+[29May2025 02:33:18.653] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.animation.AnimationManager.byKeyOrThrow(AnimationManager.java:77)
+[29May2025 02:33:18.654] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.animation.AnimationManager.byKeyOrThrow(AnimationManager.java:72)
+[29May2025 02:33:18.654] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.world.capabilities.item.WeaponTypeReloadListener.deserializeWeaponCapabilityBuilder(WeaponTypeReloadListener.java:178)
+[29May2025 02:33:18.656] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.world.capabilities.item.WeaponTypeReloadListener.lambda$apply$0(WeaponTypeReloadListener.java:99)
+[29May2025 02:33:18.656] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener.deserializeWeapon(ItemCapabilityReloadListener.java:153)
+[29May2025 02:33:18.656] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener.apply(ItemCapabilityReloadListener.java:96)
+[29May2025 02:33:18.656] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/epicfight@20.9.7/yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener.m_5787_(ItemCapabilityReloadListener.java:48)
+[29May2025 02:33:18.656] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
+[29May2025 02:33:18.657] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[29May2025 02:33:18.657] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[29May2025 02:33:18.657] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+[29May2025 02:33:18.657] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.Util.m_214652_(Util.java:783)
+[29May2025 02:33:18.657] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.Util.m_214679_(Util.java:772)
+[29May2025 02:33:18.657] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.Main.main(Main.java:166)
+[29May2025 02:33:18.658] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[29May2025 02:33:18.660] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[29May2025 02:33:18.660] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[29May2025 02:33:18.662] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+[29May2025 02:33:18.663] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+[29May2025 02:33:18.664] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103)
+[29May2025 02:33:18.664] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27)
+[29May2025 02:33:18.665] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+[29May2025 02:33:18.665] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+[29May2025 02:33:18.665] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+[29May2025 02:33:18.666] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+[29May2025 02:33:18.666] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+[29May2025 02:33:18.666] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+[29May2025 02:33:18.666] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+[29May2025 02:33:18.666] [main/INFO] [STDERR/]: [yesman.epicfight.api.data.reloader.ItemCapabilityReloadListener:apply:102]: 	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+[29May2025 02:33:18.704] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[29May2025 02:33:18.715] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[29May2025 02:33:18.717] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[29May2025 02:33:18.806] [main/WARN] [ModernFix/]: Initial datapack load took 6.882 s
+[29May2025 02:33:19.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29May2025 02:33:19.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29May2025 02:33:19.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29May2025 02:33:19.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29May2025 02:33:19.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29May2025 02:33:19.359] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29May2025 02:33:19.480] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29May2025 02:33:19.480] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29May2025 02:33:19.482] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29May2025 02:33:19.482] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29May2025 02:33:19.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29May2025 02:33:20.601] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29May2025 02:33:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29May2025 02:33:21.238] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[29May2025 02:33:21.279] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29May2025 02:33:22.800] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29May2025 02:33:23.641] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 02:33:23.642] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 02:33:23.643] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 02:33:23.643] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 02:33:23.643] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 02:33:23.731] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 02:33:23.739] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29May2025 02:33:24.231] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 02:33:24.679] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29May2025 02:33:24.843] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3613 ms
+[29May2025 02:33:24.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.341s)! For help, type "help"
+[29May2025 02:33:24.892] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29May2025 02:33:24.895] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[29May2025 02:33:24.896] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[29May2025 02:33:24.897] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[29May2025 02:33:24.913] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[29May2025 02:33:24.915] [Server thread/WARN] [ModernFix/]: Dedicated server took 42.542 seconds to load
+[29May2025 02:33:37.575] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60c8a962[id=<null>,name=z7zenger7z,properties={},legacy=false] (/127.106.30.13:49915) lost connection: Disconnected
+[29May2025 02:33:52.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JeffKennedy48[/127.86.89.225:36999] logged in with entity id 45 at (470.8374020049975, 151.0, 135.95105039787205)
+[29May2025 02:33:52.228] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player JeffKennedy48
+[29May2025 02:33:52.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 joined the game
+[29May2025 02:33:53.411] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JeffKennedy48 (18)
+[29May2025 02:33:53.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JeffKennedy48
+[29May2025 02:34:14.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f06e4ef[id=<null>,name=z7zenger7z,properties={},legacy=false] (/127.106.30.13:38667) lost connection: Disconnected
+[29May2025 02:34:40.973] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@107f1945[id=<null>,name=D0G3,properties={},legacy=false] (/127.82.146.215:48557) lost connection: Disconnected
+[29May2025 02:34:45.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dee4c69[id=<null>,name=z7zenger7z,properties={},legacy=false] (/127.106.30.13:54817) lost connection: Disconnected
+[29May2025 02:34:47.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: D0G3[/127.82.146.215:37025] logged in with entity id 395 at (442.6590265627631, 64.0, 236.67321345677962)
+[29May2025 02:34:47.364] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player D0G3
+[29May2025 02:34:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 joined the game
+[29May2025 02:34:48.421] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of D0G3 (18)
+[29May2025 02:34:48.422] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to D0G3
+[29May2025 02:35:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Acquire Hardware]
+[29May2025 02:35:20.222] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@162b6e83[id=<null>,name=z7zenger7z,properties={},legacy=false] (/127.106.30.13:57657) lost connection: Disconnected
+[29May2025 02:35:49.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Isn't It Iron Pick]
+[29May2025 02:38:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [We do a little trolling...]
+[29May2025 02:40:34.972] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52d1562c[id=<null>,name=z7zenger7z,properties={},legacy=false] (/127.106.30.13:39249) lost connection: Disconnected
+[29May2025 02:42:09.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: z7zenger7z[/127.106.30.13:44535] logged in with entity id 1901 at (21.30000001192093, 67.0, -5.300000011920929)
+[29May2025 02:42:09.944] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player z7zenger7z
+[29May2025 02:42:09.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z joined the game
+[29May2025 02:42:13.214] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of z7zenger7z (18)
+[29May2025 02:42:13.215] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to z7zenger7z
