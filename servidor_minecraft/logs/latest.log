@@ -1666,3 +1666,12 @@ A world backup will be automatically created in your saves directory.
 [29May2025 22:30:19.619] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
 [29May2025 22:30:19.621] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [29May2025 22:30:19.634] [Server thread/WARN] [ModernFix/]: Dedicated server took 50.987 seconds to load
+[29May2025 22:40:25.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: z7zenger7z[/127.108.51.255:38361] logged in with entity id 39 at (945.949315471577, 108.0, 1007.2200105191879)
+[29May2025 22:40:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z joined the game
+[29May2025 22:40:25.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Blade MoveSets]
+[29May2025 22:40:27.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has reached the goal [Better Together]
+[29May2025 22:40:28.769] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of z7zenger7z (18)
+[29May2025 22:40:28.772] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to z7zenger7z
+[29May2025 22:49:00.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: z7zenger7z lost connection: Disconnected
+[29May2025 22:49:00.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z left the game
+[29May2025 22:49:00.451] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client z7zenger7z
