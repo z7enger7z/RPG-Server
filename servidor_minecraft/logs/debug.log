@@ -8570,3 +8570,875 @@ A world backup will be automatically created in your saves directory.
 [30May2025 00:00:19.897] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 0.0
 [30May2025 00:00:22.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30May2025 00:00:22.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 00:00:26.519] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:00:26.519] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.0
+[30May2025 00:00:33.525] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:00:34.009] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:00:56.001] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of z7zenger7z: {disabled=true, disconnected=true, uuid=97247bdd-c4f4-3b0d-959b-4a4b396b27f5, name=z7zenger7z, group=null}
+[30May2025 00:01:22.493] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:01:30.947] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:01:34.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:01:34.399] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.8
+[30May2025 00:01:34.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:01:34.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.8000002
+[30May2025 00:01:35.397] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:01:35.397] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.8000002
+[30May2025 00:01:35.906] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:01:35.906] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.8000002
+[30May2025 00:01:36.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:01:36.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.8000002
+[30May2025 00:01:54.902] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:01:54.902] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:01:57.450] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:01:57.450] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 6.0
+[30May2025 00:02:00.645] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:00.946] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:00.946] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 12.0
+[30May2025 00:02:01.452] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:01.452] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 11.0
+[30May2025 00:02:01.847] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:01.950] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:01.950] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 9.0
+[30May2025 00:02:02.453] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:02.453] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 8.0
+[30May2025 00:02:02.954] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:02.954] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 6.0
+[30May2025 00:02:04.097] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:04.996] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:08.545] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:10.598] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:15.901] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:15.901] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.8
+[30May2025 00:02:16.397] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:16.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.8000002
+[30May2025 00:02:16.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:16.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.8000002
+[30May2025 00:02:17.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:17.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.8000002
+[30May2025 00:02:18.405] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:18.405] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.8000002
+[30May2025 00:02:20.445] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:20.902] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:20.902] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:02:23.345] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:23.599] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:26.292] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:02:32.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:32.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 12.8
+[30May2025 00:02:33.419] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:33.419] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 10.8
+[30May2025 00:02:33.901] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:33.901] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 9.8
+[30May2025 00:02:34.397] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:34.397] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 7.8
+[30May2025 00:02:34.897] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:34.897] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 6.8
+[30May2025 00:02:35.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:35.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.8
+[30May2025 00:02:35.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:35.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.8000002
+[30May2025 00:02:36.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:36.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.8000002
+[30May2025 00:02:37.396] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:37.396] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 1.8000002
+[30May2025 00:02:37.903] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:37.903] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 0.8000002
+[30May2025 00:02:40.397] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:40.397] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 0.0
+[30May2025 00:02:43.449] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:43.449] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 5.0
+[30May2025 00:02:44.900] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:44.900] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.8
+[30May2025 00:02:45.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:45.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.8000002
+[30May2025 00:02:45.897] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:45.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.8000002
+[30May2025 00:02:46.396] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:46.396] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.8000002
+[30May2025 00:02:47.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:47.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.8000002
+[30May2025 00:02:49.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:49.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:02:59.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:59.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 6.0
+[30May2025 00:02:59.894] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:02:59.895] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:03:00.396] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:00.396] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:03:01.400] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:01.400] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:03:01.901] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:01.901] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 1.0
+[30May2025 00:03:03.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:03.898] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 0.0
+[30May2025 00:03:11.900] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:11.900] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.8
+[30May2025 00:03:21.947] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:21.947] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 4.0
+[30May2025 00:03:27.242] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:03:29.400] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:29.400] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.8000002
+[30May2025 00:03:29.446] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:29.446] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 3.0
+[30May2025 00:03:38.450] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:38.452] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 6.0
+[30May2025 00:03:38.453] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:38.453] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.8000002
+[30May2025 00:03:38.895] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:38.895] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:03:38.946] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:38.946] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 2.0
+[30May2025 00:03:39.396] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:39.396] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:03:39.894] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:39.894] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:03:40.942] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:40.942] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 1.0
+[30May2025 00:03:42.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:42.398] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 0.0
+[30May2025 00:03:45.894] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:45.895] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.8000002
+[30May2025 00:03:46.247] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:03:46.946] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:46.946] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 1.0
+[30May2025 00:03:48.449] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:48.449] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.0
+[30May2025 00:03:51.340] [Worker-Main-39/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/building is being run through DFU (hash bfe7777c872d0a661fb3a707949dad660d6645d311cbc093100149bfa0745998), this will cause launch time delays
+[30May2025 00:03:51.670] [Worker-Main-39/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/basement is being run through DFU (hash 345e3da793356688449424b08af8595766f04c7237ab62d2e3f86f6b4f7a324f), this will cause launch time delays
+[30May2025 00:03:51.835] [Worker-Main-39/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/gorgon is being run through DFU (hash c50421b376c509e5dbf6b684c09a3de7a2e32e3a96b4f2dfca32fe843f7c5e68), this will cause launch time delays
+[30May2025 00:03:53.425] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:03:53.427] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.8000002
+[30May2025 00:03:56.053] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[30May2025 00:03:56.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Mine? Mine? Mine?]
+[30May2025 00:04:02.418] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:02.419] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:04:11.616] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:04:12.456] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:12.456] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 6.0
+[30May2025 00:04:12.707] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:04:17.107] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:04:17.930] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:17.931] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.8
+[30May2025 00:04:18.412] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:18.413] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.8000002
+[30May2025 00:04:18.935] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:18.935] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.8000002
+[30May2025 00:04:19.422] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:19.422] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.8000002
+[30May2025 00:04:20.407] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:20.407] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.8000002
+[30May2025 00:04:21.827] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[30May2025 00:04:21.914] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:21.915] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:04:22.458] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:22.459] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 5.0
+[30May2025 00:04:28.331] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[30May2025 00:04:30.963] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:30.964] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 4.0
+[30May2025 00:04:41.976] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:41.976] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 3.0
+[30May2025 00:04:54.409] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:04:54.410] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.8
+[30May2025 00:05:03.970] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:05:03.970] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 2.0
+[30May2025 00:05:09.403] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:05:09.403] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.8000002
+[30May2025 00:05:22.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 00:05:22.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 00:06:02.401] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:02.401] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.8000002
+[30May2025 00:06:11.904] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:11.904] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.8000002
+[30May2025 00:06:13.562] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:06:14.920] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:14.920] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.8000002
+[30May2025 00:06:15.101] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:06:16.146] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:06:16.909] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:16.910] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:06:17.108] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:06:17.517] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:06:17.518] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:17.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was blown up by Creeper
+[30May2025 00:06:21.288] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:21.363] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:21.363] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 5.0
+[30May2025 00:06:27.560] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[30May2025 00:06:29.325] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:06:34.955] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:34.955] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 1.0
+[30May2025 00:06:42.451] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:42.452] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.0
+[30May2025 00:06:54.714] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:06:55.118] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:55.118] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 12.8
+[30May2025 00:06:57.006] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:57.006] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 20.0
+[30May2025 00:06:57.481] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:57.481] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 19.0
+[30May2025 00:06:57.927] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:57.928] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 17.0
+[30May2025 00:06:58.475] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:58.475] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 16.0
+[30May2025 00:06:58.932] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:06:58.932] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 15.0
+[30May2025 00:07:07.968] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:07.970] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 14.0
+[30May2025 00:07:09.171] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.171] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.172] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.197] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:07:09.217] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.217] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.218] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.259] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.259] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.259] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.734] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:09.735] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.531] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.531] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.531] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.543] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:07:10.552] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.552] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.552] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.597] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.597] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.597] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.674] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.675] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.675] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.713] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.713] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.713] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.766] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.766] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.766] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.802] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.803] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.804] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.857] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.857] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:10.857] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.026] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.028] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.029] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.123] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.123] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.124] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.231] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.232] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.233] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.330] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:07:11.355] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.359] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.360] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.415] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.415] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.415] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.461] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.461] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.461] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.531] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.531] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.531] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.552] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.552] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.0
+[30May2025 00:07:11.568] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.570] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.570] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.616] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.616] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.616] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.709] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.709] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 13.0
+[30May2025 00:07:11.866] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.866] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.960] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:11.960] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 11.0
+[30May2025 00:07:19.077] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:19.078] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 10.0
+[30May2025 00:07:19.373] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:19.374] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.0
+[30May2025 00:07:19.375] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:21.285] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:23.647] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[30May2025 00:07:26.727] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.728] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.728] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.760] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:07:26.779] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.780] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.780] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.820] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.821] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.821] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.870] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.871] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.871] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.915] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.916] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.916] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.957] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.958] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.958] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.994] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.994] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:26.995] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.044] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.045] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.045] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.101] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.101] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.101] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.137] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.137] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.138] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.162] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.162] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.163] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.175] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:07:27.207] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.207] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.207] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.256] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.256] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.256] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.306] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.311] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.312] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.372] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.374] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.374] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.416] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.416] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.417] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.499] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.499] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.500] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.537] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.538] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.538] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.587] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.587] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.587] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.664] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.665] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.665] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.748] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.749] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.749] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.782] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:07:27.799] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.801] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.801] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.825] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.825] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.0
+[30May2025 00:07:27.839] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.839] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:27.839] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:28.310] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:28.310] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:28.923] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:28.923] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 9.0
+[30May2025 00:07:32.093] [Worker-Main-39/DEBUG] [ModernFix/]: Structure nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_house is being run through DFU (hash 43e97dda7471fb26115fda2d32c698c696097014af4dfdb106a9eaf986b25461), this will cause launch time delays
+[30May2025 00:07:35.748] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:35.748] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.0
+[30May2025 00:07:37.782] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:42.741] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:42.741] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 8.0
+[30May2025 00:07:44.769] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:44.771] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:07:59.409] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:07:59.409] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 7.0
+[30May2025 00:08:04.732] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[30May2025 00:08:04.734] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[30May2025 00:08:04.734] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[30May2025 00:08:25.077] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:08:25.079] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 6.0
+[30May2025 00:08:36.910] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:08:36.910] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:08:48.988] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:08:48.993] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:08:52.996] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[30May2025 00:08:52.997] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[30May2025 00:08:53.836] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[30May2025 00:08:53.837] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[30May2025 00:08:53.837] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[30May2025 00:08:53.838] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[30May2025 00:08:56.012] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:08:56.013] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 6.0
+[30May2025 00:08:57.467] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[30May2025 00:08:57.491] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[30May2025 00:08:57.991] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:08:57.992] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:08:58.052] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:08:58.052] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 12.0
+[30May2025 00:09:01.079] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[30May2025 00:09:01.492] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[30May2025 00:09:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Mine? Mine? Mine?]
+[30May2025 00:09:04.152] [Worker-Main-39/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_6 is being run through DFU (hash 5d8f10ddd51abe91dea9a58693237e5da5f29fc7e927c0b8bbb1ae2e31b853ae), this will cause launch time delays
+[30May2025 00:09:07.986] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:09:07.986] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:09:08.991] [Worker-Main-40/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_enterance_2 is being run through DFU (hash 0530d942791e0ede6323db972cf0ec63f4ca40401c257284c12b1d7edacca85d), this will cause launch time delays
+[30May2025 00:09:09.157] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_13
+[30May2025 00:09:13.466] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:09:13.467] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 11.0
+[30May2025 00:09:16.900] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:09:17.935] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:09:17.935] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 1.0
+[30May2025 00:09:19.423] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:09:19.423] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 0.0
+[30May2025 00:09:35.645] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:09:35.646] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 10.0
+[30May2025 00:10:09.456] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:10:09.456] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 9.0
+[30May2025 00:10:19.051] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:10:19.700] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:10:20.204] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:10:22.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 00:10:22.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 00:10:22.332] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:10:22.810] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:10:23.960] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:10:23.960] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 8.0
+[30May2025 00:10:25.151] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:10:25.152] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:10:25.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was slain by Grizzly Bear
+[30May2025 00:10:28.169] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:10:28.356] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:10:28.356] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 5.0
+[30May2025 00:10:31.186] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:11:05.810] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:05.810] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.0
+[30May2025 00:11:10.460] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:10.460] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 7.0
+[30May2025 00:11:15.506] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:11:16.306] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:16.306] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.0
+[30May2025 00:11:16.805] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:16.806] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.0
+[30May2025 00:11:22.810] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:22.810] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.0
+[30May2025 00:11:23.957] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:23.957] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 6.0
+[30May2025 00:11:37.306] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:37.306] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:11:38.461] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:38.461] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 5.0
+[30May2025 00:11:54.459] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:11:54.459] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 4.0
+[30May2025 00:12:24.475] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:12:24.476] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 3.0
+[30May2025 00:12:26.178] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=632, y=66, z=2410}) doesn't have enough leaves around top most log
+[30May2025 00:12:27.038] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=632, y=65, z=2410}) doesn't have enough leaves around top most log
+[30May2025 00:12:34.802] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:12:34.802] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 6.0
+[30May2025 00:12:36.302] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:12:36.302] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 12.0
+[30May2025 00:12:41.962] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:12:41.962] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 2.0
+[30May2025 00:12:51.957] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:12:51.957] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 1.0
+[30May2025 00:12:59.310] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:12:59.310] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 11.0
+[30May2025 00:13:05.818] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:13:05.982] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:05.982] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.0
+[30May2025 00:13:07.307] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:07.307] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 10.0
+[30May2025 00:13:16.803] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:16.803] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 9.0
+[30May2025 00:13:21.158] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:13:27.303] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:27.303] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 8.0
+[30May2025 00:13:35.822] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:35.822] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 7.0
+[30May2025 00:13:37.905] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:37.906] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 9.6
+[30May2025 00:13:38.413] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:38.413] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 8.6
+[30May2025 00:13:38.903] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:38.903] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 7.6000004
+[30May2025 00:13:39.411] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:39.411] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.6000004
+[30May2025 00:13:39.904] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:39.904] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.6000004
+[30May2025 00:13:40.409] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:40.409] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.6000004
+[30May2025 00:13:45.307] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:45.307] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 6.0
+[30May2025 00:13:48.107] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:13:52.403] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:13:53.329] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:53.329] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 5.0
+[30May2025 00:13:53.420] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:53.420] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 1.6000004
+[30May2025 00:13:54.405] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:13:54.405] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 0.6000004
+[30May2025 00:13:57.062] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:14:01.804] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:01.804] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.0
+[30May2025 00:14:09.804] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:09.805] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.0
+[30May2025 00:14:15.402] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:15.402] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 0.0
+[30May2025 00:14:18.808] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:18.809] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.0
+[30May2025 00:14:22.956] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:22.956] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 9.6
+[30May2025 00:14:26.305] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:26.305] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.0
+[30May2025 00:14:26.960] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:26.961] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 8.6
+[30May2025 00:14:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Take Aim]
+[30May2025 00:14:30.959] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:30.959] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 6.6000004
+[30May2025 00:14:34.803] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:34.803] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:14:34.955] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:34.955] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 5.6000004
+[30May2025 00:14:38.956] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:38.956] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 3.6000004
+[30May2025 00:14:41.763] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:14:42.969] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:42.969] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 2.6000004
+[30May2025 00:14:46.960] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:46.960] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.6000004
+[30May2025 00:14:50.958] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:14:50.958] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.0
+[30May2025 00:14:56.827] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:14:59.645] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:15:00.873] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:15:01.844] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:15:01.845] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:01.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 was slain by Cyclops
+[30May2025 00:15:03.037] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:03.207] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:03.207] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 5.0
+[30May2025 00:15:10.726] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:15:16.911] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:16.911] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 6.0
+[30May2025 00:15:22.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 00:15:22.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 00:15:23.112] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:15:23.662] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:23.662] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 4.0
+[30May2025 00:15:24.164] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:24.164] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 3.0
+[30May2025 00:15:24.665] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:24.665] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 2.0
+[30May2025 00:15:25.164] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:25.164] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 1.0
+[30May2025 00:15:26.664] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:15:28.660] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:28.660] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.0
+[30May2025 00:15:51.668] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:51.668] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 6.0
+[30May2025 00:15:55.313] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:55.313] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 5.0
+[30May2025 00:15:59.316] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:15:59.316] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.0
+[30May2025 00:16:22.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Diamonds!]
+[30May2025 00:16:36.415] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:16:40.823] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:16:40.823] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.0
+[30May2025 00:16:42.311] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:16:42.312] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.0
+[30May2025 00:16:44.811] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:16:44.812] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:16:48.406] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:16:48.406] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:16:59.308] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:16:59.308] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 6.0
+[30May2025 00:17:02.847] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.848] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.848] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.860] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:02.896] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.896] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.896] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.950] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.950] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.950] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.999] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.999] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:02.999] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.048] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.048] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.048] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.497] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.497] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.497] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.508] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:03.547] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.547] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.547] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.594] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.594] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.594] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.798] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.799] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.799] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.810] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.810] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.0
+[30May2025 00:17:03.851] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.851] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.851] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.896] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.896] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.896] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.957] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.958] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:03.958] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.013] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.014] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.014] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.038] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:04.066] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.066] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.066] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.308] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.308] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.0
+[30May2025 00:17:04.507] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.507] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.597] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.597] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.597] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.608] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:04.650] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.650] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.650] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.705] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.705] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.705] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.759] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.760] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:04.760] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:05.207] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:05.207] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:05.306] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:05.306] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.0
+[30May2025 00:17:05.652] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:05.652] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:05.652] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:05.665] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:05.809] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:05.809] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.0
+[30May2025 00:17:06.064] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.064] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.064] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.109] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.109] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.109] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.152] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.153] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.153] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.164] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:06.560] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:06.609] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:06.609] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:07.325] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:07.326] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:17:07.350] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:07.399] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:07.401] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:17:07.876] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:07.876] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:17:08.308] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:08.308] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:17:08.644] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:08.644] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:08.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:17:11.512] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:11.649] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:11.649] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:17:16.239] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:17.665] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:17.666] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 1.2
+[30May2025 00:17:22.277] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:23.110] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:23.111] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:17:23.614] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:23.614] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:17:24.660] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:24.660] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.20000005
+[30May2025 00:17:32.359] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:33.059] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:33.059] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:17:33.149] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:33.149] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:33.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:17:34.540] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:34.716] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:34.716] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:17:35.658] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:35.658] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player JeffKennedy48: 0.0
+[30May2025 00:17:38.892] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:39.507] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:39.507] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:17:39.912] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:39.912] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:17:40.424] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:40.424] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:17:46.330] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:46.330] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 6.0
+[30May2025 00:17:47.509] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:47.817] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:47.817] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 12.0
+[30May2025 00:17:48.296] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:48.296] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:48.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:17:48.329] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:48.330] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 10.0
+[30May2025 00:17:49.539] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:49.657] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:49.659] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:17:58.306] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:17:58.852] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:58.852] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 9.0
+[30May2025 00:17:59.130] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:59.131] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:17:59.642] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:17:59.643] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:18:10.608] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:10.608] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:18:14.907] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:18:15.609] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:15.609] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 1.0
+[30May2025 00:18:15.700] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:18:15.700] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:15.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:18:17.147] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:17.250] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:17.250] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:18:18.808] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:18.808] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 8.0
+[30May2025 00:18:34.157] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:18:34.709] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:34.709] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:18:34.945] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:18:34.945] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:34.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:18:36.273] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:36.406] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:36.406] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:18:38.357] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[30May2025 00:18:38.358] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[30May2025 00:18:40.531] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:18:41.355] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:41.356] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:18:41.899] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:41.899] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:18:42.380] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:42.381] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:18:43.194] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:18:44.047] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:18:44.048] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:44.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:18:45.324] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:45.419] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:45.419] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:18:50.928] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:18:51.907] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:51.907] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:18:52.407] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:18:52.407] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:19:11.610] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:12.392] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:12.393] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:12.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:19:12.857] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:12.858] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:19:13.752] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:13.845] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:13.845] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:19:16.194] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:16.194] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:16.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was turned into gorgonzola by Gorgon
+[30May2025 00:19:17.356] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:18.303] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:18.303] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:19:18.806] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:18.806] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:19:19.302] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:19.303] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:19:21.642] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:21.792] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:21.793] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 5.0
+[30May2025 00:19:26.068] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:27.008] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:27.008] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:19:28.366] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:28.487] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:28.487] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:19:46.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43016, l='ServerLevel[world]', x=626.23, y=91.75, z=2480.49] died, message: 'Villager was slain by Zombie'
+[30May2025 00:19:47.863] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:48.410] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:48.410] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:19:48.645] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:48.645] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:48.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:19:49.262] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:49.262] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 4.0
+[30May2025 00:19:50.159] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:50.330] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:50.330] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:19:54.239] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:19:54.760] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:54.760] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:19:55.260] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:55.261] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:19:55.757] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:55.758] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:19:58.766] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:19:58.766] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 3.0
+[30May2025 00:19:59.961] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:00.749] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:00.750] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:00.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:20:02.150] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:02.334] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:02.335] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:20:06.176] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:06.706] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:06.706] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:20:07.210] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:07.210] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:20:07.707] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:07.707] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:20:09.760] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:09.760] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 2.0
+[30May2025 00:20:17.257] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:17.257] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 1.0
+[30May2025 00:20:22.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 00:20:22.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 00:20:25.260] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player z7zenger7z containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:25.260] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player z7zenger7z: 0.0
+[30May2025 00:20:28.629] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player JeffKennedy48 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:40.909] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:41.700] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:41.701] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:20:42.160] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:42.160] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 1.0
+[30May2025 00:20:42.931] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:43.085] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:43.085] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:20:46.279] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:47.059] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:47.059] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 4.0
+[30May2025 00:20:47.508] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:47.508] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 3.0
+[30May2025 00:20:47.560] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:48.041] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:48.042] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 2.0
+[30May2025 00:20:48.348] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData
+[30May2025 00:20:48.348] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:48.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 was slain by Cyclops
+[30May2025 00:20:49.586] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:49.690] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.RenderPacketData
+[30May2025 00:20:49.690] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Update of type SATURATION for Player D0G3: 5.0
+[30May2025 00:20:52.774] [Server thread/DEBUG] [io.sedu.mc.parties.Parties/]: [Parties] Sending packet to player D0G3 containing io.sedu.mc.parties.network.ClientPacketData

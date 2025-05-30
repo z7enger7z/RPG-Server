@@ -22,10 +22,12 @@
       "minecraft:eroded_badlands": "2025-05-29 01:55:43 +0000",
       "minecraft:sunflower_plains": "2025-05-29 23:50:30 +0000",
       "minecraft:badlands": "2025-05-29 01:50:56 +0000",
+      "minecraft:beach": "2025-05-30 00:17:34 +0000",
       "minecraft:river": "2025-05-29 02:50:46 +0000",
       "minecraft:dripstone_caves": "2025-05-29 02:45:21 +0000",
       "minecraft:desert": "2025-05-29 02:44:36 +0000",
       "minecraft:flower_forest": "2025-05-29 03:20:36 +0000",
+      "minecraft:savanna": "2025-05-30 00:04:28 +0000",
       "minecraft:plains": "2025-05-29 03:20:34 +0000"
     },
     "done": false
@@ -1340,6 +1342,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-05-30 00:17:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-29 23:39:47 +0000"
@@ -1382,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-30 00:17:25 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-05-29 23:53:14 +0000"
@@ -1394,9 +1408,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 00:17:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-05-29 23:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 00:05:29 +0000"
     },
     "done": true
   },
@@ -1406,9 +1432,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 00:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-29 23:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 00:05:29 +0000"
     },
     "done": true
   },
