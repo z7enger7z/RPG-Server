@@ -1675,3 +1675,108 @@ A world backup will be automatically created in your saves directory.
 [29May2025 22:49:00.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: z7zenger7z lost connection: Disconnected
 [29May2025 22:49:00.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z left the game
 [29May2025 22:49:00.451] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client z7zenger7z
+[29May2025 22:50:55.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: z7zenger7z[/127.108.51.255:41607] logged in with entity id 1384 at (943.3779971161073, 108.0, 1008.6606692396873)
+[29May2025 22:50:55.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z joined the game
+[29May2025 22:51:02.361] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of z7zenger7z (18)
+[29May2025 22:51:02.362] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to z7zenger7z
+[29May2025 22:54:15.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Proud Soul]
+[29May2025 22:57:49.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Tiny Proud Soul]
+[29May2025 22:57:49.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Slash Blade]
+[29May2025 22:59:14.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z was slain by Bison
+[29May2025 23:04:23.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fentanilo[/127.9.193.245:35155] logged in with entity id 4757 at (-4.5, 65.0, -1.5)
+[29May2025 23:04:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo joined the game
+[29May2025 23:04:23.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo has made the advancement [Blade MoveSets]
+[29May2025 23:04:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo has made the advancement [Ice and Fire]
+[29May2025 23:04:24.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo has reached the goal [Better Together]
+[29May2025 23:04:25.050] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Fentanilo (18)
+[29May2025 23:04:25.052] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Fentanilo
+[29May2025 23:07:39.898] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/3165, l='ServerLevel[world]', x=913.53, y=73.52, z=924.20] died, message: 'Scribe was slain by Zombie'
+[29May2025 23:08:08.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo has made the advancement [Proud Soul]
+[29May2025 23:08:08.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo has made the advancement [Alex's Mobs]
+[29May2025 23:10:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo was slain by Spider
+[29May2025 23:13:02.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo was slain by Koboleton
+[29May2025 23:13:18.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fentanilo lost connection: Disconnected
+[29May2025 23:13:18.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fentanilo left the game
+[29May2025 23:13:18.246] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Fentanilo
+[29May2025 23:13:47.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: D0G3[/127.82.146.215:43055] logged in with entity id 8792 at (947.6999999880791, 80.0, 1009.6121618220383)
+[29May2025 23:13:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 joined the game
+[29May2025 23:13:47.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Blade MoveSets]
+[29May2025 23:13:48.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has reached the goal [Better Together]
+[29May2025 23:13:49.205] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of D0G3 (18)
+[29May2025 23:13:49.205] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to D0G3
+[29May2025 23:15:07.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: z7zenger7z lost connection: Disconnected
+[29May2025 23:15:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z left the game
+[29May2025 23:15:07.795] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client z7zenger7z
+[29May2025 23:16:57.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: enger[/127.108.51.255:53723] logged in with entity id 9476 at (-4.5, 64.0, 8.5)
+[29May2025 23:16:57.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enger joined the game
+[29May2025 23:16:58.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enger has made the advancement [Blade MoveSets]
+[29May2025 23:16:58.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enger has made the advancement [Ice and Fire]
+[29May2025 23:16:58.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enger has reached the goal [Better Together]
+[29May2025 23:17:01.502] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of enger (18)
+[29May2025 23:17:01.503] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to enger
+[29May2025 23:17:05.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Getting an Upgrade]
+[29May2025 23:17:17.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: enger lost connection: Disconnected
+[29May2025 23:17:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enger left the game
+[29May2025 23:17:17.908] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client enger
+[29May2025 23:17:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Tiny Proud Soul]
+[29May2025 23:17:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Slash Blade]
+[29May2025 23:18:31.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Level Up]
+[29May2025 23:20:12.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zenger[/127.108.51.255:42467] logged in with entity id 10245 at (-6.5, 65.0, -7.5)
+[29May2025 23:20:12.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenger joined the game
+[29May2025 23:20:12.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenger has made the advancement [Blade MoveSets]
+[29May2025 23:20:12.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenger has made the advancement [Ice and Fire]
+[29May2025 23:20:13.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenger has reached the goal [Better Together]
+[29May2025 23:20:15.954] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zenger (18)
+[29May2025 23:20:15.954] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zenger
+[29May2025 23:22:01.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zenger lost connection: Disconnected
+[29May2025 23:22:01.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenger left the game
+[29May2025 23:22:01.799] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zenger
+[29May2025 23:23:16.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Proud Soul]
+[29May2025 23:23:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Acquire Hardware]
+[29May2025 23:24:12.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: z7zenger7z[/127.108.51.255:40765] logged in with entity id 11206 at (969.0644161862836, 75.0, 992.9429950984933)
+[29May2025 23:24:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z joined the game
+[29May2025 23:24:16.301] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of z7zenger7z (18)
+[29May2025 23:24:16.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to z7zenger7z
+[29May2025 23:24:47.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3266, l='ServerLevel[world]', x=939.30, y=72.06, z=928.50] died, message: 'Villager was slain by Zombie'
+[29May2025 23:25:04.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/3183, l='ServerLevel[world]', x=882.88, y=73.00, z=921.64] died, message: 'Scribe was slain by Zombie'
+[29May2025 23:25:20.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [The Parrots and the Bats]
+[29May2025 23:27:10.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: z7zenger7z lost connection: Disconnected
+[29May2025 23:27:10.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z left the game
+[29May2025 23:27:10.147] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client z7zenger7z
+[29May2025 23:27:17.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/3409, l='ServerLevel[world]', x=1025.14, y=107.05, z=998.50] died, message: 'Butcher suffocated in a wall'
+[29May2025 23:28:42.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JeffKennedy48[/127.161.117.4:52691] logged in with entity id 12441 at (946.4457785617649, 108.5625, 1009.5533701776849)
+[29May2025 23:28:42.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 joined the game
+[29May2025 23:28:42.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Blade MoveSets]
+[29May2025 23:28:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has reached the goal [Better Together]
+[29May2025 23:28:43.731] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JeffKennedy48 (18)
+[29May2025 23:28:43.731] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JeffKennedy48
+[29May2025 23:30:00.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> nadie habla
+[29May2025 23:30:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <D0G3> YO
+[29May2025 23:30:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> o que paso
+[29May2025 23:30:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <D0G3> donde estas
+[29May2025 23:30:20.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeffKennedy48> noo oigo nd
+[29May2025 23:30:22.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <D0G3> HABLA POR DISCOR
+[29May2025 23:30:57.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeffKennedy48 lost connection: Disconnected
+[29May2025 23:30:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 left the game
+[29May2025 23:30:57.448] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JeffKennedy48
+[29May2025 23:30:57.508] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29May2025 23:33:19.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: z7zenger7z[/127.108.51.255:33579] logged in with entity id 14363 at (908.460472553421, 72.9375, 970.742070268338)
+[29May2025 23:33:19.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z joined the game
+[29May2025 23:33:20.926] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of z7zenger7z (18)
+[29May2025 23:33:20.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to z7zenger7z
+[29May2025 23:33:32.346] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3293, l='ServerLevel[world]', x=1011.48, y=77.00, z=923.70] died, message: 'Farmer was slain by Zombie'
+[29May2025 23:33:57.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JeffKennedy48[/127.194.106.52:39827] logged in with entity id 14725 at (944.3283376721325, 92.0, 1007.6505993798291)
+[29May2025 23:33:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 joined the game
+[29May2025 23:33:59.067] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JeffKennedy48 (18)
+[29May2025 23:33:59.068] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JeffKennedy48
+[29May2025 23:34:39.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Proud Soul]
+[29May2025 23:35:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Level Up]
+[29May2025 23:35:36.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeffKennedy48 has made the advancement [Slash Blade]
+[29May2025 23:37:35.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/3265, l='ServerLevel[world]', x=927.67, y=72.00, z=937.34] died, message: 'Scribe was slain by Zombie'
+[29May2025 23:39:47.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Isn't It Iron Pick]
+[29May2025 23:41:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Isn't It Iron Pick]
+[29May2025 23:42:15.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0G3 has made the advancement [Suit Up]
+[29May2025 23:47:35.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Mine? Mine? Mine?]
+[29May2025 23:53:14.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Call For Adventure]
+[29May2025 23:53:17.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[29May2025 23:54:37.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: z7zenger7z has made the advancement [Suit Up]
